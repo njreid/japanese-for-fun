@@ -1,5 +1,3 @@
-Of course. Here is a detailed 6-month plan to teach a 6-year-old Japanese from scratch, designed to be fun, engaging, and effective.
-
 ### Teaching Philosophy & Approach
 
 Teaching a 6-year-old a new language, especially one as different from English as Japanese, requires a specific approach. This plan is built on the following principles:
