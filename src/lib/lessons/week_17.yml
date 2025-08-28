@@ -1,0 +1,64 @@
+weekNumber: 17
+lessons:
+  - lessonNumber: 1
+    theme: New and Old
+    words:
+      - emoji: ✨
+        japanese: 新しい
+        furigana: あたらしい
+        romaji: atarashii
+        english: New
+      - emoji: 🕰️
+        japanese: 古い
+        furigana: ふるい
+        romaji: furui
+        english: Old
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: Hot and Cold
+    words:
+      - emoji: 🔥
+        japanese: 暑い
+        furigana: あつい
+        romaji: atsui
+        english: Hot
+      - emoji: ❄️
+        japanese: 寒い
+        furigana: さむい
+        romaji: samui
+        english: Cold
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: Putting it together
+    words:
+      - emoji: ✨🚗
+        japanese: 新しい車
+        furigana: あたらしいくるま
+        romaji: atarashii kuruma
+        english: New car
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: More descriptions
+    words:
+      - emoji: 🔥
+        japanese: 今日は暑い
+        furigana: きょうはあつい
+        romaji: kyou wa atsui
+        english: Today is hot
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Adjectives Review
+    words: []
+    sheets: *ref_0

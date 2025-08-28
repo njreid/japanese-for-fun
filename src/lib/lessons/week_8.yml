@@ -1,0 +1,64 @@
+weekNumber: 8
+lessons:
+  - lessonNumber: 1
+    theme: In the Toybox
+    words:
+      - emoji: 🚗
+        japanese: 車
+        furigana: くるま
+        romaji: kuruma
+        english: Car
+      - emoji: ⚽
+        japanese: ボール
+        furigana: ボール
+        romaji: booru
+        english: Ball
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: More Toys
+    words:
+      - emoji: 🧸
+        japanese: ぬいぐるみ
+        furigana: ぬいぐるみ
+        romaji: nuigurumi
+        english: Stuffed animal
+      - emoji: 🤖
+        japanese: ロボット
+        furigana: ロボット
+        romaji: robotto
+        english: Robot
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: My big car
+    words:
+      - emoji: 🚗
+        japanese: 大きい車
+        furigana: おおきいくるま
+        romaji: ookii kuruma
+        english: Big car
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: My blue ball
+    words:
+      - emoji: ⚽
+        japanese: 青いボール
+        furigana: あおいボール
+        romaji: aoi booru
+        english: Blue ball
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Toy Review
+    words: []
+    sheets: *ref_0

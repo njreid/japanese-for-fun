@@ -1,0 +1,64 @@
+weekNumber: 5
+lessons:
+  - lessonNumber: 1
+    theme: Fruits
+    words:
+      - emoji: 🍎
+        japanese: りんご
+        furigana: りんご
+        romaji: ringo
+        english: Apple
+      - emoji: 🍌
+        japanese: バナナ
+        furigana: バナナ
+        romaji: banana
+        english: Banana
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: Eating and Drinking
+    words:
+      - emoji: 😋
+        japanese: 食べる
+        furigana: たべる
+        romaji: taberu
+        english: To eat
+      - emoji: 🥤
+        japanese: 飲む
+        furigana: のむ
+        romaji: nomu
+        english: To drink
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: Delicious!
+    words:
+      - emoji: 😄
+        japanese: 美味しい
+        furigana: おいしい
+        romaji: oishii
+        english: Delicious
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Putting it together
+    words:
+      - emoji: 🍎😋
+        japanese: りんごを食べます
+        furigana: りんごをたべます
+        romaji: ringo o tabemasu
+        english: I eat an apple
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Food Review
+    words: []
+    sheets: *ref_0

@@ -1,0 +1,79 @@
+weekNumber: 21
+lessons:
+  - lessonNumber: 1
+    theme: I want to...
+    words:
+      - emoji: 😋
+        japanese: 食べたい
+        furigana: たべたい
+        romaji: tabetai
+        english: Want to eat
+      - emoji: 🚶
+        japanese: 行きたい
+        furigana: いきたい
+        romaji: ikitai
+        english: Want to go
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: I want to eat an apple
+    words:
+      - emoji: 🍎😋
+        japanese: りんごが食べたいです
+        furigana: りんごがたべたいです
+        romaji: ringo ga tabetai desu
+        english: I want to eat an apple
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: I want to go to the park
+    words:
+      - emoji: 🏞️🚶
+        japanese: 公園に行きたいです
+        furigana: こうえんにいきたいです
+        romaji: kouen ni ikitai desu
+        english: I want to go to the park
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Katakana 'N' and 'H' rows
+    words:
+      - emoji: カタカナ
+        japanese: ナ
+        furigana: ナ
+        romaji: na
+        english: na
+      - emoji: カタカナ
+        japanese: ニ
+        furigana: ニ
+        romaji: ni
+        english: ni
+      - emoji: カタカナ
+        japanese: ヌ
+        furigana: ヌ
+        romaji: nu
+        english: nu
+      - emoji: カタカナ
+        japanese: ネ
+        furigana: ネ
+        romaji: ne
+        english: ne
+      - emoji: カタカナ
+        japanese: ノ
+        furigana: ノ
+        romaji: 'no'
+        english: 'no'
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Wishes Review
+    words: []
+    sheets: *ref_0

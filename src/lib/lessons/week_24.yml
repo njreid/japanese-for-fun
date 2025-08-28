@@ -1,0 +1,34 @@
+weekNumber: 24
+lessons:
+  - lessonNumber: 1
+    theme: Grand Review!
+    words: []
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: Grand Review!
+    words: []
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: Grand Review!
+    words: []
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Grand Review!
+    words: []
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Japanese Festival!
+    words: []
+    sheets: *ref_0

@@ -1,0 +1,79 @@
+weekNumber: 11
+lessons:
+  - lessonNumber: 1
+    theme: A Walk in the Park
+    words:
+      - emoji: 🚶
+        japanese: 歩く
+        furigana: あるく
+        romaji: aruku
+        english: To walk
+      - emoji: 🏃
+        japanese: 走る
+        furigana: はしる
+        romaji: hashiru
+        english: To run
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: What's the Weather?
+    words:
+      - emoji: ☀️
+        japanese: 晴れ
+        furigana: はれ
+        romaji: hare
+        english: Sunny
+      - emoji: 🌧️
+        japanese: 雨
+        furigana: あめ
+        romaji: ame
+        english: Rain
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: The 'R' Racers
+    words:
+      - 'emoji:': ら
+        furigana: ら
+        romaji: ra
+        english: ra
+      - 'emoji:': り
+        furigana: り
+        romaji: ri
+        english: ri
+      - 'emoji:': る
+        furigana: る
+        romaji: ru
+        english: ru
+      - 'emoji:': れ
+        furigana: れ
+        romaji: re
+        english: re
+      - 'emoji:': ろ
+        furigana: ろ
+        romaji: ro
+        english: ro
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Putting it together
+    words:
+      - emoji: ☀️🚶
+        japanese: 晴れの日に歩く
+        furigana: はれのひにあるく
+        romaji: hare no hi ni aruku
+        english: Walk on a sunny day
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Nature Review
+    words: []
+    sheets: *ref_0

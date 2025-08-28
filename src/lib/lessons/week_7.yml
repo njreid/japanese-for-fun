@@ -1,0 +1,84 @@
+weekNumber: 7
+lessons:
+  - lessonNumber: 1
+    theme: My Face
+    words:
+      - emoji: 👁️
+        japanese: 目
+        furigana: め
+        romaji: me
+        english: Eye
+      - emoji: 👄
+        japanese: 口
+        furigana: くち
+        romaji: kuchi
+        english: Mouth
+      - emoji: 👃
+        japanese: 鼻
+        furigana: はな
+        romaji: hana
+        english: Nose
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: More Body Parts
+    words:
+      - emoji: 👂
+        japanese: 耳
+        furigana: みみ
+        romaji: mimi
+        english: Ear
+      - emoji: ✋
+        japanese: 手
+        furigana: て
+        romaji: te
+        english: Hand
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: The 'H' Herd
+    words:
+      - 'emoji:': は
+        furigana: は
+        romaji: ha
+        english: ha
+      - 'emoji:': ひ
+        furigana: ひ
+        romaji: hi
+        english: hi
+      - 'emoji:': ふ
+        furigana: ふ
+        romaji: fu
+        english: fu
+      - 'emoji:': へ
+        furigana: へ
+        romaji: he
+        english: he
+      - 'emoji:': ほ
+        furigana: ほ
+        romaji: ho
+        english: ho
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Putting it together
+    words:
+      - emoji: 👃✋
+        japanese: 鼻と手
+        furigana: はなとて
+        romaji: hana to te
+        english: Nose and hand
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Body Review
+    words: []
+    sheets: *ref_0

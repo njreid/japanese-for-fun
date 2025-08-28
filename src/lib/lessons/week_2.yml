@@ -1,0 +1,174 @@
+weekNumber: 2
+lessons:
+  - lessonNumber: 1
+    theme: My Family
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: true
+        eng: false
+        jp: false
+    words:
+      - emoji: 👩‍👧‍👦
+        japanese: お母さん
+        furigana: おかあさん
+        romaji: okaasan
+        english: Mother
+      - emoji: 👨‍👧‍👦
+        japanese: お父さん
+        furigana: おとうさん
+        romaji: otousan
+        english: Father
+      - emoji: 🐶
+        japanese: 犬
+        furigana: いぬ
+        romaji: inu
+        english: Dog
+      - emoji: 🐱
+        japanese: 猫
+        furigana: ねこ
+        romaji: neko
+        english: Cat
+      - emoji: 👧👦
+        japanese: 兄弟
+        furigana: きょうだい
+        romaji: kyoudai
+        english: Siblings
+      - emoji: 👦
+        japanese: お兄さん
+        furigana: おにいさん
+        romaji: oniisan
+        english: Older Brother
+      - emoji: 👧
+        japanese: お姉さん
+        furigana: おねえさん
+        romaji: oneesan
+        english: Older Sister
+      - emoji: 👶👦
+        japanese: 弟
+        furigana: おとうと
+        romaji: otouto
+        english: Younger Brother
+      - emoji: 👶👧
+        japanese: 妹
+        furigana: いもうと
+        romaji: imouto
+        english: Younger Sister
+  - lessonNumber: 2
+    theme: Let's Count!
+    sheets: *ref_0
+    words:
+      - emoji: 1️⃣
+        japanese: いち
+        furigana: いち
+        romaji: ichi
+        english: One
+      - emoji: 2️⃣
+        japanese: に
+        furigana: に
+        romaji: ni
+        english: Two
+      - emoji: 3️⃣
+        japanese: さん
+        furigana: さん
+        romaji: san
+        english: Three
+      - emoji: 4️⃣
+        japanese: よん
+        furigana: よん
+        romaji: yon
+        english: Four
+      - emoji: 5️⃣
+        japanese: ご
+        furigana: ご
+        romaji: go
+        english: Five
+      - emoji: 6️⃣
+        japanese: ろく
+        furigana: ろく
+        romaji: roku
+        english: Six
+      - emoji: 7️⃣
+        japanese: なな
+        furigana: なな
+        romaji: nana
+        english: Seven
+      - emoji: 8️⃣
+        japanese: はち
+        furigana: はち
+        romaji: hachi
+        english: Eight
+      - emoji: 9️⃣
+        japanese: きゅう
+        furigana: きゅう
+        romaji: kyuu
+        english: Nine
+      - emoji: 🔟
+        japanese: じゅう
+        furigana: じゅう
+        romaji: juu
+        english: Ten
+  - lessonNumber: 3
+    theme: Animals
+    sheets: *ref_0
+    words:
+      - emoji: 🐑
+        japanese: ひつじ
+        furigana: ひつじ
+        romaji: hitsuji
+        english: Sheep
+      - emoji: 🐷
+        japanese: ぶた
+        furigana: ぶた
+        romaji: buta
+        english: Pig
+      - emoji: 🐮
+        japanese: うし
+        furigana: うし
+        romaji: ushi
+        english: Cow
+      - emoji: 🐦
+        japanese: とり
+        furigana: とり
+        romaji: tori
+        english: Bird
+  - lessonNumber: 4
+    theme: The 'K' Crew
+    sheets: *ref_0
+    words:
+      - emoji: ひらがな
+        japanese: か
+        furigana: か
+        romaji: ka
+        english: ka
+      - emoji: ひらがな
+        japanese: き
+        furigana: き
+        romaji: ki
+        english: ki
+      - emoji: ひらがな
+        japanese: く
+        furigana: く
+        romaji: ku
+        english: ku
+      - emoji: ひらがな
+        japanese: け
+        furigana: け
+        romaji: ke
+        english: ke
+      - emoji: ひらがな
+        japanese: こ
+        furigana: こ
+        romaji: ko
+        english: ko
+  - lessonNumber: 5
+    theme: Family & Numbers Review
+    sheets: *ref_0
+    words: []

@@ -1,0 +1,59 @@
+weekNumber: 13
+lessons:
+  - lessonNumber: 1
+    theme: This and That
+    words:
+      - emoji: 👇
+        japanese: これ
+        furigana: これ
+        romaji: kore
+        english: This
+      - emoji: 👉
+        japanese: それ
+        furigana: それ
+        romaji: sore
+        english: That
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: What?
+    words:
+      - emoji: ❓
+        japanese: 何
+        furigana: なに
+        romaji: nani
+        english: What
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: Asking 'What is this?'
+    words:
+      - emoji: ❓👇
+        japanese: これは何ですか？
+        furigana: これはなんですか？
+        romaji: kore wa nan desu ka?
+        english: What is this?
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Answering
+    words:
+      - emoji: 🍎
+        japanese: りんごです
+        furigana: りんごです
+        romaji: ringo desu
+        english: It's an apple
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Questions Review
+    words: []
+    sheets: *ref_0

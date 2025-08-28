@@ -1,0 +1,79 @@
+weekNumber: 6
+lessons:
+  - lessonNumber: 1
+    theme: Sizes
+    words:
+      - emoji: 🐘
+        japanese: 大きい
+        furigana: おおきい
+        romaji: ookii
+        english: Big
+      - emoji: 🐭
+        japanese: 小さい
+        furigana: ちいさい
+        romaji: chiisai
+        english: Small
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: Describing things
+    words:
+      - emoji: 🐘🐶
+        japanese: 大きい犬
+        furigana: おおきい いぬ
+        romaji: ookii inu
+        english: Big dog
+      - emoji: 🐭🐱
+        japanese: 小さい猫
+        furigana: ちいさい ねこ
+        romaji: chiisai neko
+        english: Small cat
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: The 'N' Crew
+    words:
+      - 'emoji:': な
+        furigana: な
+        romaji: na
+        english: na
+      - 'emoji:': に
+        furigana: に
+        romaji: ni
+        english: ni
+      - 'emoji:': ぬ
+        furigana: ぬ
+        romaji: nu
+        english: nu
+      - 'emoji:': ね
+        furigana: ね
+        romaji: ne
+        english: ne
+      - 'emoji:': の
+        furigana: の
+        romaji: 'no'
+        english: 'no'
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: More descriptions
+    words:
+      - emoji: 🐘
+        japanese: ぞうは大きい
+        furigana: ぞうはおおきい
+        romaji: zou wa ookii
+        english: The elephant is big
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Size Review
+    words: []
+    sheets: *ref_0

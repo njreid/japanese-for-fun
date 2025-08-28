@@ -1,0 +1,61 @@
+weekNumber: 12
+lessons:
+  - lessonNumber: 1
+    theme: More Weather
+    words:
+      - emoji: ☁️
+        japanese: 曇り
+        furigana: くもり
+        romaji: kumori
+        english: Cloudy
+      - emoji: ❄️
+        japanese: 雪
+        furigana: ゆき
+        romaji: yuki
+        english: Snow
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: The 'W' Wanderers
+    words:
+      - 'emoji:': わ
+        furigana: わ
+        romaji: wa
+        english: wa
+      - 'emoji:': を
+        furigana: を
+        romaji: o (wo)
+        english: o (wo)
+      - 'emoji:': ん
+        furigana: ん
+        romaji: 'n'
+        english: 'n'
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: Putting it together
+    words:
+      - emoji: ❄️
+        japanese: 雪の日
+        furigana: ゆきのひ
+        romaji: yuki no hi
+        english: Snowy day
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Hiragana Review
+    words: []
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Weather Review
+    words: []
+    sheets: *ref_0

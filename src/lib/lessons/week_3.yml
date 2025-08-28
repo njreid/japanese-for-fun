@@ -1,0 +1,144 @@
+weekNumber: 3
+lessons:
+  - lessonNumber: 1
+    theme: Colors of the Rainbow
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+    words:
+      - emoji: 🔴
+        japanese: 赤
+        furigana: あか
+        romaji: aka
+        english: Red
+      - emoji: 🔵
+        japanese: 青
+        furigana: あお
+        romaji: ao
+        english: Blue
+      - emoji: 🟡
+        japanese: 黄色
+        furigana: きいろ
+        romaji: kiiro
+        english: Yellow
+      - emoji: 🟢
+        japanese: 緑
+        furigana: みどり
+        romaji: midori
+        english: Green
+      - emoji: ⚫
+        japanese: 黒
+        furigana: くろ
+        romaji: kuro
+        english: Black
+      - emoji: ⚪
+        japanese: 白
+        furigana: しろ
+        romaji: shiro
+        english: White
+  - lessonNumber: 2
+    theme: The 'S' Set
+    sheets: *ref_0
+    words:
+      - emoji: ひらがな
+        japanese: さ
+        furigana: さ
+        romaji: sa
+        english: sa
+      - emoji: ひらがな
+        japanese: し
+        furigana: し
+        romaji: shi
+        english: shi
+      - emoji: ひらがな
+        japanese: す
+        furigana: す
+        romaji: su
+        english: su
+      - emoji: ひらがな
+        japanese: せ
+        furigana: せ
+        romaji: se
+        english: se
+      - emoji: ひらがな
+        japanese: そ
+        furigana: そ
+        romaji: so
+        english: so
+  - lessonNumber: 3
+    theme: Describing with Colors
+    sheets: *ref_0
+    words:
+      - emoji: 🍎
+        japanese: 赤いりんご
+        furigana: あかいりんご
+        romaji: akai ringo
+        english: Red apple
+      - emoji: ☁️
+        japanese: 青い空
+        furigana: あおいそら
+        romaji: aoi sora
+        english: Blue sky
+      - emoji: 🍌
+        japanese: 黄色いバナナ
+        furigana: きいろいバナナ
+        romaji: kiiroi banana
+        english: Yellow banana
+      - emoji: 🌳
+        japanese: 緑の木
+        furigana: みどりのき
+        romaji: midori no ki
+        english: Green tree
+      - emoji: 🐈‍⬛
+        japanese: 黒い猫
+        furigana: くろいねこ
+        romaji: kuroi neko
+        english: Black cat
+      - emoji: ☁️
+        japanese: 白い雲
+        furigana: しろいくも
+        romaji: shiroi kumo
+        english: White cloud
+  - lessonNumber: 4
+    theme: The 'T' Team
+    sheets: *ref_0
+    words:
+      - emoji: ひらがな
+        japanese: た
+        furigana: た
+        romaji: ta
+        english: ta
+      - emoji: ひらがな
+        japanese: ち
+        furigana: ち
+        romaji: chi
+        english: chi
+      - emoji: ひらがな
+        japanese: つ
+        furigana: つ
+        romaji: tsu
+        english: tsu
+      - emoji: ひらがな
+        japanese: て
+        furigana: て
+        romaji: te
+        english: te
+      - emoji: ひらがな
+        japanese: と
+        furigana: と
+        romaji: to
+        english: to
+  - lessonNumber: 5
+    theme: Color Review
+    sheets: *ref_0
+    words: []

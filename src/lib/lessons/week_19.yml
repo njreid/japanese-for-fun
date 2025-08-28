@@ -1,0 +1,99 @@
+weekNumber: 19
+lessons:
+  - lessonNumber: 1
+    theme: Katakana Vowels
+    words:
+      - emoji: カタカナ
+        japanese: ア
+        furigana: ア
+        romaji: a
+        english: a
+      - emoji: カタカナ
+        japanese: イ
+        furigana: イ
+        romaji: i
+        english: i
+      - emoji: カタカナ
+        japanese: ウ
+        furigana: ウ
+        romaji: u
+        english: u
+      - emoji: カタカナ
+        japanese: エ
+        furigana: エ
+        romaji: e
+        english: e
+      - emoji: カタカナ
+        japanese: オ
+        furigana: オ
+        romaji: o
+        english: o
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: Katakana 'K' Crew
+    words:
+      - emoji: カタカナ
+        japanese: カ
+        furigana: カ
+        romaji: ka
+        english: ka
+      - emoji: カタカナ
+        japanese: キ
+        furigana: キ
+        romaji: ki
+        english: ki
+      - emoji: カタカナ
+        japanese: ク
+        furigana: ク
+        romaji: ku
+        english: ku
+      - emoji: カタカナ
+        japanese: ケ
+        furigana: ケ
+        romaji: ke
+        english: ke
+      - emoji: カタカナ
+        japanese: コ
+        furigana: コ
+        romaji: ko
+        english: ko
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: Loan Words
+    words:
+      - emoji: 🍦
+        japanese: アイスクリーム
+        furigana: アイスクリーム
+        romaji: aisu kuriimu
+        english: Ice cream
+      - emoji: 📷
+        japanese: カメラ
+        furigana: カメラ
+        romaji: kamera
+        english: Camera
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: More Loan Words
+    words:
+      - emoji: 🚕
+        japanese: タクシー
+        furigana: タクシー
+        romaji: takushii
+        english: Taxi
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Katakana Review
+    words: []
+    sheets: *ref_0

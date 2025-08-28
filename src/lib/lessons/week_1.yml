@@ -1,0 +1,160 @@
+weekNumber: 1
+lessons:
+  - lessonNumber: 1
+    theme: First Encounters
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: true
+        eng: false
+        jp: false
+    words:
+      - emoji: 👋
+        japanese: こんにちは
+        furigana: こんにちは
+        romaji: konnichiwa
+        english: Hello
+      - emoji: 🌅
+        japanese: おはようございます
+        furigana: おはようございます
+        romaji: ohayou gozaimasu
+        english: Good morning
+      - emoji: 👋
+        japanese: さようなら
+        furigana: さようなら
+        romaji: sayounara
+        english: Goodbye
+      - emoji: 👍
+        japanese: はい
+        furigana: はい
+        romaji: hai
+        english: 'Yes'
+      - emoji: 👎
+        japanese: いいえ
+        furigana: いいえ
+        romaji: iie
+        english: 'No'
+      - emoji: 🤝
+        japanese: はじめまして
+        furigana: はじめまして
+        romaji: hajimemashite
+        english: Nice to meet you
+      - emoji: 🙏
+        japanese: ありがとう
+        furigana: ありがとう
+        romaji: arigatou
+        english: Thank you
+  - lessonNumber: 2
+    theme: Who Am I?
+    sheets: *ref_0
+    words:
+      - emoji: ❓
+        japanese: お名前は？
+        furigana: おなまえは？
+        romaji: onamae wa?
+        english: What is your name?
+      - emoji: 👤
+        japanese: 私は...です
+        furigana: わたしは...です
+        romaji: watashi wa...desu
+        english: I am...
+      - {}
+      - emoji: ❓
+        japanese: お元気ですか？
+        furigana: おげんきですか？
+        romaji: ogenki desu ka?
+        english: How are you?
+      - emoji: 😄
+        japanese: 元気
+        furigana: げんき
+        romaji: genki
+        english: Energetic, fine
+      - emoji: 😴
+        japanese: 眠い
+        furigana: ねむい
+        romaji: nemui
+        english: Sleepy
+      - emoji: 🎂
+        japanese: 何歳ですか
+        furigana: なんさいですか
+        romaji: nansai desu ka
+        english: How old are you?
+  - lessonNumber: 3
+    theme: Breakfast Time
+    sheets: *ref_0
+    words:
+      - emoji: 🥚
+        japanese: 卵
+        furigana: たまご
+        romaji: tamago
+        english: Egg
+      - emoji: 🍞
+        japanese: パン
+        furigana: パン
+        romaji: pan
+        english: Bread
+      - emoji: 🧈
+        japanese: バター
+        furigana: バター
+        romaji: bataa
+        english: Butter
+      - emoji: 🥛
+        japanese: ミルク
+        furigana: ミルク
+        romaji: miruku
+        english: Milk
+      - emoji: 🍓
+        japanese: ジャム
+        furigana: ジャム
+        romaji: jamu
+        english: Jam
+      - emoji: 🍚
+        japanese: ご飯
+        furigana: ごはん
+        romaji: gohan
+        english: Rice
+      - emoji: ☕
+        japanese: コーヒー
+        furigana: コーヒー
+        romaji: koohii
+        english: Coffee
+      - emoji: 🍳
+        japanese: 朝ごはん
+        furigana: あさごはん
+        romaji: asagohan
+        english: Breakfast
+  - lessonNumber: 4
+    theme: The 'A' Team
+    sheets: *ref_0
+    words:
+      - emoji: あ
+        furigana: あ
+        romaji: a
+        english: a
+      - emoji: い
+        furigana: い
+        romaji: i
+        english: i
+      - emoji: う
+        furigana: う
+        romaji: u
+        english: u
+      - emoji: え
+        furigana: え
+        romaji: e
+        english: e
+      - emoji: お
+        furigana: お
+        romaji: o
+        english: o
+  - lessonNumber: 5
+    theme: Putting It Together
+    sheets: *ref_0
+    words: []

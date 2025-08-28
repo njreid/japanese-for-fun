@@ -1,0 +1,99 @@
+weekNumber: 20
+lessons:
+  - lessonNumber: 1
+    theme: Katakana 'S' Set
+    words:
+      - emoji: カタカナ
+        japanese: サ
+        furigana: サ
+        romaji: sa
+        english: sa
+      - emoji: カタカナ
+        japanese: シ
+        furigana: シ
+        romaji: shi
+        english: shi
+      - emoji: カタカナ
+        japanese: ス
+        furigana: ス
+        romaji: su
+        english: su
+      - emoji: カタカナ
+        japanese: セ
+        furigana: セ
+        romaji: se
+        english: se
+      - emoji: カタカナ
+        japanese: ソ
+        furigana: ソ
+        romaji: so
+        english: so
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: Katakana 'T' Team
+    words:
+      - emoji: カタカナ
+        japanese: タ
+        furigana: タ
+        romaji: ta
+        english: ta
+      - emoji: カタカナ
+        japanese: チ
+        furigana: チ
+        romaji: chi
+        english: chi
+      - emoji: カタカナ
+        japanese: ツ
+        furigana: ツ
+        romaji: tsu
+        english: tsu
+      - emoji: カタカナ
+        japanese: テ
+        furigana: テ
+        romaji: te
+        english: te
+      - emoji: カタカナ
+        japanese: ト
+        furigana: ト
+        romaji: to
+        english: to
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: Loan Words
+    words:
+      - emoji: ⚽
+        japanese: サッカー
+        furigana: サッカー
+        romaji: sakkaa
+        english: Soccer
+      - emoji: 🎾
+        japanese: テニス
+        furigana: テニス
+        romaji: tenisu
+        english: Tennis
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: More Loan Words
+    words:
+      - emoji: 🍞
+        japanese: パン
+        furigana: パン
+        romaji: pan
+        english: Bread
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Katakana Review
+    words: []
+    sheets: *ref_0

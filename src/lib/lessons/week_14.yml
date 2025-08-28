@@ -1,0 +1,54 @@
+weekNumber: 14
+lessons:
+  - lessonNumber: 1
+    theme: Who?
+    words:
+      - emoji: 👤❓
+        japanese: 誰
+        furigana: だれ
+        romaji: dare
+        english: Who
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: Where?
+    words:
+      - emoji: 🗺️❓
+        japanese: どこ
+        furigana: どこ
+        romaji: doko
+        english: Where
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: Asking 'Who is that?'
+    words:
+      - emoji: 👤❓
+        japanese: あれは誰ですか？
+        furigana: あれはだれですか？
+        romaji: are wa dare desu ka?
+        english: Who is that over there?
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Asking 'Where is the park?'
+    words:
+      - emoji: 🏞️❓
+        japanese: 公園はどこですか？
+        furigana: こうえんはどこですか？
+        romaji: kouen wa doko desu ka?
+        english: Where is the park?
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Questions Review
+    words: []
+    sheets: *ref_0

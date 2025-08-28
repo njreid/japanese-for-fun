@@ -1,0 +1,71 @@
+weekNumber: 10
+lessons:
+  - lessonNumber: 1
+    theme: Places in Town
+    words:
+      - emoji: 🏫
+        japanese: 学校
+        furigana: がっこう
+        romaji: gakkou
+        english: School
+      - emoji: 🏞️
+        japanese: 公園
+        furigana: こうえん
+        romaji: kouen
+        english: Park
+      - emoji: 🏠
+        japanese: 家
+        furigana: いえ
+        romaji: ie
+        english: House
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: Going to the park
+    words:
+      - emoji: 🏞️🚶
+        japanese: 公園に行きます
+        furigana: こうえんにいきます
+        romaji: kouen ni ikimasu
+        english: I go to the park
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: The 'Y' Yellers
+    words:
+      - 'emoji:': や
+        furigana: や
+        romaji: ya
+        english: ya
+      - 'emoji:': ゆ
+        furigana: ゆ
+        romaji: yu
+        english: yu
+      - 'emoji:': よ
+        furigana: よ
+        romaji: yo
+        english: yo
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Going to school
+    words:
+      - emoji: 🏫🚶
+        japanese: 学校に行きます
+        furigana: がっこうにいきます
+        romaji: gakkou ni ikimasu
+        english: I go to school
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Places Review
+    words: []
+    sheets: *ref_0

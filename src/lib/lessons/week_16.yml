@@ -1,0 +1,54 @@
+weekNumber: 16
+lessons:
+  - lessonNumber: 1
+    theme: I Spy
+    words:
+      - emoji: ' spy'
+        japanese: 見つけた
+        furigana: みつけた
+        romaji: mitsuketa
+        english: I found it!
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: In My Room
+    words:
+      - emoji: 🛏️
+        japanese: ベッド
+        furigana: ベッド
+        romaji: beddo
+        english: Bed
+      - emoji: 🪑
+        japanese: 椅子
+        furigana: いす
+        romaji: isu
+        english: Chair
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: Putting it together
+    words:
+      - emoji: 🛏️⬆️🧸
+        japanese: ベッドの上にぬいぐるみがあります
+        furigana: ベッドのうえにぬいぐるみがあります
+        romaji: beddo no ue ni nuigurumi ga arimasu
+        english: There is a stuffed animal on the bed
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Hiragana Review
+    words: []
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Locations Review
+    words: []
+    sheets: *ref_0

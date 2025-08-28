@@ -1,0 +1,79 @@
+weekNumber: 22
+lessons:
+  - lessonNumber: 1
+    theme: 'Story Time: Momotaro'
+    words:
+      - emoji: 🍑
+        japanese: 桃太郎
+        furigana: ももたろう
+        romaji: momotarou
+        english: Peach Boy
+      - emoji: 👹
+        japanese: 鬼
+        furigana: おに
+        romaji: oni
+        english: Ogre
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: This is a dog
+    words:
+      - emoji: 🐶
+        japanese: これは犬です
+        furigana: これは いぬ です
+        romaji: kore wa inu desu
+        english: This is a dog
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: The dog is big
+    words:
+      - emoji: 🐶🐘
+        japanese: 犬は大きいです
+        furigana: いぬは おおきい です
+        romaji: inu wa ookii desu
+        english: The dog is big
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Katakana 'M' and 'Y' rows
+    words:
+      - emoji: カタカナ
+        japanese: マ
+        furigana: マ
+        romaji: ma
+        english: ma
+      - emoji: カタカナ
+        japanese: ミ
+        furigana: ミ
+        romaji: mi
+        english: mi
+      - emoji: カタカナ
+        japanese: ム
+        furigana: ム
+        romaji: mu
+        english: mu
+      - emoji: カタカナ
+        japanese: メ
+        furigana: メ
+        romaji: me
+        english: me
+      - emoji: カタカナ
+        japanese: モ
+        furigana: モ
+        romaji: mo
+        english: mo
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Story Review
+    words: []
+    sheets: *ref_0

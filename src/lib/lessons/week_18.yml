@@ -1,0 +1,59 @@
+weekNumber: 18
+lessons:
+  - lessonNumber: 1
+    theme: Past Tense (Verbs)
+    words:
+      - emoji: 😋
+        japanese: 食べました
+        furigana: たべました
+        romaji: tabemashita
+        english: Ate
+      - emoji: 🚶
+        japanese: 行きました
+        furigana: いきました
+        romaji: ikimashita
+        english: Went
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: I ate an apple
+    words:
+      - emoji: 🍎😋
+        japanese: りんごを食べました
+        furigana: りんごをたべました
+        romaji: ringo o tabemashita
+        english: I ate an apple
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: I went to the park
+    words:
+      - emoji: 🏞️🚶
+        japanese: 公園に行きました
+        furigana: こうえんにいきました
+        romaji: kouen ni ikimashita
+        english: I went to the park
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Past Tense (Adjectives)
+    words:
+      - emoji: 🔥
+        japanese: 暑かったです
+        furigana: あつかったです
+        romaji: atsukatta desu
+        english: It was hot
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Past Tense Review
+    words: []
+    sheets: *ref_0

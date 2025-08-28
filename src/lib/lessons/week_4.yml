@@ -1,0 +1,79 @@
+weekNumber: 4
+lessons:
+  - lessonNumber: 1
+    theme: At the Zoo
+    words:
+      - emoji: 🐘
+        japanese: ぞう
+        furigana: ぞう
+        romaji: zou
+        english: Elephant
+      - emoji: 🦒
+        japanese: きりん
+        furigana: きりん
+        romaji: kirin
+        english: Giraffe
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: On the Farm
+    words:
+      - emoji: 🐰
+        japanese: うさぎ
+        furigana: うさぎ
+        romaji: usagi
+        english: Rabbit
+      - emoji: 🐷
+        japanese: ぶた
+        furigana: ぶた
+        romaji: buta
+        english: Pig
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: The 'T' Team
+    words:
+      - 'emoji:': た
+        furigana: た
+        romaji: ta
+        english: ta
+      - 'emoji:': ち
+        furigana: ち
+        romaji: chi
+        english: chi
+      - 'emoji:': つ
+        furigana: つ
+        romaji: tsu
+        english: tsu
+      - 'emoji:': て
+        furigana: て
+        romaji: te
+        english: te
+      - 'emoji:': と
+        furigana: と
+        romaji: to
+        english: to
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Describing Animals
+    words:
+      - emoji: 🐘
+        japanese: ぞうは大きい
+        furigana: ぞうはおおきい
+        romaji: zou wa ookii
+        english: The elephant is big
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Animal Review
+    words: []
+    sheets: *ref_0

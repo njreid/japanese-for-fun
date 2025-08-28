@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Lesson Week",
+  "description": "A schema for the structure of a weekly lesson file.",
+  "type": "object",
+  "properties": {
+    "weekNumber": {
+      "type": "integer"
+    },
+    "lessons": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "lessonNumber": {
+            "type": "integer"
+          },
+          "theme": {
+            "type": "string"
+          },
+          "sheets": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": { "type": "string" },
+                "em": { "type": "boolean" },
+                "fu": { "type": "boolean" },
+                "ro": { "type": "boolean" },
+                "eng": { "type": "boolean" }
+              },
+              "required": ["name", "em", "fu", "ro", "eng"]
+            }
+          },
+          "words": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "emoji": { "type": "string" },
+                "japanese": { "type": "string" },
+                "furigana": { "type": "string" },
+                "romaji": { "type": "string" },
+                "english": { "type": "string" }
+              },
+              "required": ["english"]
+            }
+          }
+        },
+        "required": ["lessonNumber", "theme", "words"]
+      }
+    }
+  },
+  "required": ["weekNumber", "lessons"]
+}

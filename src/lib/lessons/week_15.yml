@@ -1,0 +1,64 @@
+weekNumber: 15
+lessons:
+  - lessonNumber: 1
+    theme: Existence (Living)
+    words:
+      - emoji: いる
+        japanese: います
+        furigana: います
+        romaji: imasu
+        english: To be, exist (living things)
+    sheets: &ref_0
+      - name: Vocabulary
+        em: true
+        fu: false
+        ro: true
+        eng: true
+        jp: false
+      - name: Worksheet
+        em: true
+        fu: false
+        ro: false
+        eng: false
+        jp: false
+  - lessonNumber: 2
+    theme: Existence (Non-living)
+    words:
+      - emoji: ある
+        japanese: あります
+        furigana: あります
+        romaji: arimasu
+        english: To be, exist (non-living things)
+    sheets: *ref_0
+  - lessonNumber: 3
+    theme: Locations
+    words:
+      - emoji: ⬆️
+        japanese: 上
+        furigana: うえ
+        romaji: ue
+        english: On, above
+      - emoji: ⬇️
+        japanese: 下
+        furigana: した
+        romaji: shita
+        english: Under, below
+      - emoji: ↔️
+        japanese: 中
+        furigana: なか
+        romaji: naka
+        english: In, inside
+    sheets: *ref_0
+  - lessonNumber: 4
+    theme: Putting it together
+    words:
+      - emoji: 🐱⬆️
+        japanese: 机の上に猫がいます
+        furigana: つくえのうえにねこがいます
+        romaji: tsukue no ue ni neko ga imasu
+        english: There is a cat on the desk
+    sheets: *ref_0
+  - lessonNumber: 5
+    theme: Existence Review
+    words: []
+    sheets: *ref_0
